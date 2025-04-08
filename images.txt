@@ -7,4 +7,4 @@
 nginx
 jc21/nginx-proxy-manager:latest
 whyour/qinglong:latest
-timerring/bilive
+timerring/bilive:0.2.10
